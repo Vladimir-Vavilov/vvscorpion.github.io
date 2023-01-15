@@ -9,6 +9,4 @@
    Желаю всем успехов и еще больших побед в Новом Году!!!
    
 <image
-src="(https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg)"
-alt="Как будет после обучения"
-caption="Как будет после обучения">
+src="(https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg)">
