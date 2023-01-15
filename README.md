@@ -12,3 +12,4 @@
          src="https://webplus.info/getres.php?photo=photo_1464.jpg"
          alt="Как будет после обучения"
          caption="Как будет после обучения">
+   ![Описание картинки](https://webplus.info/getres.php?photo=photo_1464.jpg) "Подпись под картинкой")
