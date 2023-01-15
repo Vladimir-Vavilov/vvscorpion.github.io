@@ -9,8 +9,8 @@
    Желаю всем успехов и еще больших побед в Новом Году!!!
    
   <image
-         src="https://webplus.info/getres.php?photo=photo_1464.jpg"
+         src="(https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg)"
          alt="Как будет после обучения"
          caption="Как будет после обучения">
    
-   ![Описание картинки](https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg) "Anonymous")
+   !(https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg) "Anonymous")
