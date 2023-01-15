@@ -8,6 +8,6 @@
    
    Желаю всем успехов и еще больших побед в Новом Году!!!
    <kbd>
-   ![фото - как будет после обучения] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebplus.info%2Findex.php%3Fpage%3D64%26photoCategory%3D42%26max%3D1&psig=AOvVaw0mrkdZg4EoRmCz0YTjAdPi&ust=1673885223343000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDv-9L6yfwCFQAAAAAdAAAAABAD "Как будет после обучения")
+   ![фото - как будет после обучения] (https://webplus.info/getres.php?photo=photo_1464.jpg&width=1280&height=1024&quality=100) "Как будет после обучения")
     </kbd>
     
