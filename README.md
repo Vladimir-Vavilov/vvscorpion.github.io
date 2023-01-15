@@ -12,4 +12,5 @@
          src="https://webplus.info/getres.php?photo=photo_1464.jpg"
          alt="Как будет после обучения"
          caption="Как будет после обучения">
-   ![Описание картинки] (https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg) "Anonymous")
+   
+   ![Описание картинки](https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg) "Anonymous")
