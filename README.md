@@ -10,3 +10,5 @@
  
  #### Главное стремление!
 ![фото - как будет после обучения](https://3dnews.ru/assets/external/illustrations/2022/02/25/1060953/anonymous.jpg)
+
+theme: Hacker
