@@ -8,9 +8,9 @@
    
    Желаю всем успехов и еще больших побед в Новом Году!!!
    
-     <kbd>
-    <image
-  src="https://webplus.info/getres.php?photo=photo_1464.jpg"
-  alt="Как будет после обучения"
-  caption="Как будет после обучения">
-    </kbd>
+  <kbd>
+  <image
+      src="https://webplus.info/getres.php?photo=photo_1464.jpg"
+      alt="Как будет после обучения"
+      caption="Как будет после обучения">
+  </kbd>
