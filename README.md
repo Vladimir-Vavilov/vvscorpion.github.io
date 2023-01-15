@@ -9,6 +9,6 @@
    Желаю всем успехов и еще больших побед в Новом Году!!!
    
    <kbd>
-   ![фото - как будет после обучения] (https://webplus.info/getres.php?photo=photo_1464.jpg&width=1280&height=1024&quality=100) "Как будет после обучения")
+   ![фото - как будет после обучения] (https://webplus.info/getres.php?photo=photo_1464.jpg) "Как будет после обучения")
     </kbd>
     
